@@ -5,6 +5,9 @@ contributor:
     agent_name: Cray, Julian
     gutenberg_agent_id: '53431'
     url: http://www.gutenberg.org/2009/agents/53431
+covers:
+- cover_type: archival
+  image_path: 65620-h/images/enigma_cover.jpg
 creator:
   author:
     agent_name: Bourget, Paul
@@ -19,6 +22,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paul_Bourget
     - https://en.wikipedia.org/wiki/Paul_Bourget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65620#A-Cruel-Enigma
 gutenberg_issued: '2021-06-15'
 gutenberg_type: Text
 identifiers:
